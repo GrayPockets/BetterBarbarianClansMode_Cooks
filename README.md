@@ -1,8 +1,8 @@
-# GrayPockets - Nere's Better Barbarian Clans mode - Fixes
+# GrayPockets - Nere's Better Barbarian Clans mode - Cooks
 
 ## Description
 
-This mod fixes several items in "Nere's Better Barbarian Clans mode"
+This mod cooks several items in "Nere's Better Barbarian Clans mode"
 
 * No snow camps for naval tribes
 
